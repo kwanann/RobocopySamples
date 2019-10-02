@@ -21,3 +21,41 @@ The problem with running robocopy in user space is that the user will see a logi
 
 1. Run Task Scheduler
 2. Click Create Basic Task
+
+![Step 2](https://github.com/kwanann/RobocopySamples/blob/master/Step%2002%20-%20Create%20Basic%20Task.png)
+
+3. asdsa
+
+![Step 3](https://github.com/kwanann/RobocopySamples/raw/master/Step%2003%20-%20Task%20Info.png)
+
+4. asdsa
+
+![Step](https://github.com/kwanann/RobocopySamples/raw/master/Step%2004%20-%20Trigger.png)
+
+5. asdsa
+
+![Step](https://github.com/kwanann/RobocopySamples/raw/master/Step%2005%20-%20Trigger%20Daily%20Info.png)
+
+6. asdsa
+
+[Step](https://github.com/kwanann/RobocopySamples/raw/master/Step%2006%20-%20Action.png)
+
+7. asdsa
+
+![Step](https://github.com/kwanann/RobocopySamples/raw/master/Step%2007%20-%20Start%20a%20Program%20Info.png)
+
+8. asdsa
+
+![Step](https://github.com/kwanann/RobocopySamples/raw/master/Step%2008%20-%20Finish.png)
+
+9. asdsa
+
+![Step](https://github.com/kwanann/RobocopySamples/raw/master/Step%2009%20-%20Job%20-%20General.png)
+
+10. asdsa
+
+![Step](https://github.com/kwanann/RobocopySamples/raw/master/Step%2010%20-%20Job%20-%20Triggers.png)
+
+11. asdsa
+
+![Step](https://github.com/kwanann/RobocopySamples/raw/master/Step%2011%20-%20Job%20-%20Settings.png)
